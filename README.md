@@ -1,2 +1,2 @@
 # Bacteria-Eradication
-Stochastic simulation codes and graphs for the first passage time of population eradication of bacteria using time dependent stochastic rejection algorithm (TRSSA)
+Stochastic simulation codes and graphs for the first passage time of population eradication of bacteria under the influence of antibacterial agents , including antibotic (Ampicillin) and Silver Nanoparticle (AgNP). The algorithm used here is called Time-dependent rejection based stochastic smulation (tRSSA) which a modified form of the well known "Gillespie Algorithm". The codes are for evaluating the first passage time for bacterial extinction in presence of 1.antibiotic alone , 2.AgNP alone and 3.  Combination of Ampicillin and AgNP.
