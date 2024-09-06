@@ -3,5 +3,5 @@ Stochastic simulation codes and graphs for the first passage time of population 
 
 The codes are written in python 3.0. All the other details are in the associated manuscript.
 
-**To cite:**
+# Cite the work
 "A first passage time study of bacterial eradication under antibiotic action" by Shivangi Chourasia, Nafisa Siddiqui, Aishani Ghosal and Rati Sharma
